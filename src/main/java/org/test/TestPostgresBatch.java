@@ -1,7 +1,7 @@
 /******************************************************************************/
-/* SYSTEM     : A1 STREAM                                                        */
+/* SYSTEM     :                                                         */
 /*                                                                            */
-/* SUBSYSTEM  : MDM                                                           */
+/* SUBSYSTEM  :                                                            */
 /******************************************************************************/
 package org.test;
 
@@ -23,13 +23,13 @@ import org.postgresql.copy.CopyManager;
 
 /**
  *
- * @author  Lin zhanwang
+ * @author  
  * @version 1.0
  * @since   1.0
  *
  * <MODIFICATION HISTORY>
  *  (Rev.)		(Date)     	(Name)        (Comment)
- *  1.0    		2014-4-1    	Lin zhanwang       New making
+ *  1.0    		2014-4-1    	       New making
  */
 public class TestPostgresBatch {
 
